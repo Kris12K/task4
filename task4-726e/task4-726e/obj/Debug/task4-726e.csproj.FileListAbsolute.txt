@@ -1,0 +1,6 @@
+C:\Users\Z\Desktop\task4-726e\task4-726e\bin\Debug\task4-726e.exe.config
+C:\Users\Z\Desktop\task4-726e\task4-726e\bin\Debug\task4-726e.exe
+C:\Users\Z\Desktop\task4-726e\task4-726e\bin\Debug\task4-726e.pdb
+C:\Users\Z\Desktop\task4-726e\task4-726e\obj\Debug\task4-726e.csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\task4-726e\task4-726e\obj\Debug\task4-726e.exe
+C:\Users\Z\Desktop\task4-726e\task4-726e\obj\Debug\task4-726e.pdb
